@@ -1,4 +1,4 @@
 # DEPI-Project
 Tableau Dashboards: https://public.tableau.com/app/profile/dina.abdelmnhem/viz/DEPIProject_17624588019900/Home?publish=yes  </br>
-HR_EDA: https://colab.research.google.com/github/Mahmoud9356/DEPI-Project/blob/main/HR_EDA.ipynb </br>
-HR_Attrition_Prediction: https://colab.research.google.com/github/Mahmoud9356/DEPI-Project/blob/main/HR_Attrition_Prediction.ipynb
+Exploratory Data Analaysis: https://colab.research.google.com/github/Mahmoud9356/DEPI-Project/blob/main/HR_EDA.ipynb </br>
+Attrition Prediction: https://colab.research.google.com/github/Mahmoud9356/DEPI-Project/blob/main/HR_Attrition_Prediction.ipynb
